@@ -1,0 +1,28 @@
+{
+    "name": "lxd-provisioning-module-sample",
+    "description": "LXD Provisioning Module for WHMCS Billing Automation Platform",
+    "keywords": [
+        "whmcs",
+        "lxd",
+        "provisioning module",
+        "server module"
+    ],
+    "homepage": "https://github.com/hackman/whmcs_lxd",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "Marian Marinov",
+            "email": "whmcs_lxd@1h.cx",
+            "homepage": "https://github.com/hackman",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "whmcs_lxd@1h.cx",
+        "forum": "https://github.com/hackman/whmcs_lxd/issues",
+        "wiki": "https://github.com/hackman/whmcs_lxd/README.md"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "@stable"
+    }
+}
